@@ -39,3 +39,23 @@ h1{
 h2{
     margin-bottom: 12px;
 }
+
+.container{
+    background: linear-gradient(to bottom right, #b3cccc 7%, #669999 100%);
+    position: relative;
+    width: 40%;
+    height: 600px;
+    float: right;
+}
+
+.img2{
+    width: 60%;
+    height: 600px;
+    position: relative;
+    float: left;
+
+}
+
+.align{
+    text-align: center;
+}
